@@ -94,6 +94,34 @@ pinout 8:
 8 EXTR-MOT red
 
 
+Pinout 8:
+1 FILAMENT RUNOUT b
+2 FILAMENT RUNOUT g
+3 FILAMENT ENC blu
+4 FILAMENT ENC red
+5 EMERGENCY STOP BL
+6 EMERGENCY STOP BR
+7 UNUSED (LED P)
+8 UNUSED (LED N)
+
+
+
+Stepper drv from left to right:
+E X Y Y Z->z1z2
+
+Bed out:
+1 N
+2 N
+3 Probe
+4 Probe
+5 L
+6 L
+7 EARTH
+
+
+
+
+
 
 
 
